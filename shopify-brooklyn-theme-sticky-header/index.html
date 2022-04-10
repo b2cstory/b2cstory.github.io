@@ -1,0 +1,160 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片 | B2C Story</title><meta name="keywords" content="Shopify,Shopify Theme"><meta name="author" content="B2C Story,b2cstory@gmail.com"><meta name="copyright" content="B2C Story"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="本文为大家介绍一下如何为 Shopify Brooklyn 主题设置固定菜单栏，并且如何避免手机端出现产品图片被遮挡的问题。 Brooklyn 主题是由 Shopify 官方推出的一款免费主题。对于刚刚进入独立站这个行业，资金还不是很充裕的卖家来说，Brooklyn 这款免费的主题是一个极为不错的选择。当然，相比 Turbo Portland 主题或者其他一些更加专业性的主题来说，Brooklyn">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片">
+<meta property="og:url" content="https://b2cstory.com/shopify-brooklyn-theme-sticky-header/index.html">
+<meta property="og:site_name" content="B2C Story">
+<meta property="og:description" content="本文为大家介绍一下如何为 Shopify Brooklyn 主题设置固定菜单栏，并且如何避免手机端出现产品图片被遮挡的问题。 Brooklyn 主题是由 Shopify 官方推出的一款免费主题。对于刚刚进入独立站这个行业，资金还不是很充裕的卖家来说，Brooklyn 这款免费的主题是一个极为不错的选择。当然，相比 Turbo Portland 主题或者其他一些更加专业性的主题来说，Brooklyn">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+<meta property="article:published_time" content="2021-04-03T19:04:52.000Z">
+<meta property="article:modified_time" content="2021-04-03T19:04:52.000Z">
+<meta property="article:author" content="B2C Story">
+<meta property="article:tag" content="Shopify">
+<meta property="article:tag" content="Shopify Theme">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><link rel="shortcut icon" href="/img/favicon.svg"><link rel="canonical" href="https://b2cstory.com/shopify-brooklyn-theme-sticky-header/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery@2/dist/fjGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery@2/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isAnchor: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2021-04-04 03:04:52'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><meta name="generator" content="Hexo 6.1.0"></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="/img/avatar.svg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data is-center"><div class="data-item"><a href="/archives/"><div class="headline">文章</div><div class="length-num">5</div></a></div><div class="data-item"><a href="/tags/"><div class="headline">标签</div><div class="length-num">3</div></a></div><div class="data-item"><a href="/categories/"><div class="headline">分类</div><div class="length-num">0</div></a></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> Home</span></a></div><div class="menus_item"><a class="site-page" href="/shopify/"><i class="fa-fw fab fa-shopify"></i><span> Shopify</span></a></div><div class="menus_item"><a class="site-page" href="/tiktok/"><i class="fa-fw fab fa-tiktok"></i><span> TikTok</span></a></div><div class="menus_item"><a class="site-page" href="/wordpress/"><i class="fa-fw fab fa-wordpress-simple"></i><span> WordPress</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> About</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/contact/"><i class="fa-fw far fa-envelope"></i><span> Contact</span></a></li><li><a class="site-page child" href="/disclaimer/"><i class="fa-fw far fa-copyright"></i><span> Disclaimer</span></a></li><li><a class="site-page child" href="/dmca/"><i class="fa-fw fas fa-lock"></i><span> DMCA</span></a></li><li><a class="site-page child" href="/privacy-policy/"><i class="fa-fw fas fa-user-shield"></i><span> Privacy Policy</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="not-top-img" id="page-header"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">B2C Story</a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> Home</span></a></div><div class="menus_item"><a class="site-page" href="/shopify/"><i class="fa-fw fab fa-shopify"></i><span> Shopify</span></a></div><div class="menus_item"><a class="site-page" href="/tiktok/"><i class="fa-fw fab fa-tiktok"></i><span> TikTok</span></a></div><div class="menus_item"><a class="site-page" href="/wordpress/"><i class="fa-fw fab fa-wordpress-simple"></i><span> WordPress</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> About</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/contact/"><i class="fa-fw far fa-envelope"></i><span> Contact</span></a></li><li><a class="site-page child" href="/disclaimer/"><i class="fa-fw far fa-copyright"></i><span> Disclaimer</span></a></li><li><a class="site-page child" href="/dmca/"><i class="fa-fw fas fa-lock"></i><span> DMCA</span></a></li><li><a class="site-page child" href="/privacy-policy/"><i class="fa-fw fas fa-user-shield"></i><span> Privacy Policy</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav></header><main class="layout" id="content-inner"><div id="post"><div id="post-info"><h1 class="post-title">Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-04-03T19:04:52.000Z" title="发表于 2021-04-04 03:04:52">2021-04-04</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2021-04-03T19:04:52.000Z" title="更新于 2021-04-04 03:04:52">2021-04-04</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div><article class="post-content" id="article-container"><p>本文为大家介绍一下如何为 Shopify Brooklyn 主题设置固定菜单栏，并且如何避免手机端出现产品图片被遮挡的问题。</p>
+<p>Brooklyn 主题是由 Shopify 官方推出的一款免费主题。对于刚刚进入独立站这个行业，资金还不是很充裕的卖家来说，Brooklyn 这款免费的主题是一个极为不错的选择。当然，相比 <a target="_blank" rel="noopener" href="https://outofthesandbox.com/products/turbo-theme-portland?rfsn=4714227.94d985b&utm_source=refersion&utm_medium=affiliate&utm_campaign=4714227.94d985b">Turbo Portland 主题</a>或者其他一些更加专业性的主题来说，Brooklyn 在可自定义程度上还是有些不足。如果在功能方面有更高的要求，可能就需要通过自定义代码或是安装 App 的形式来实现。</p>
+<p>本着能自己用代码解决就绝不多装一个 App 的原则（避免拖慢网站速度），接下来就为大家介绍如何通过自定义代码，将 Brooklyn 主题的主菜单设置为固定菜单，即向下滑动页面的时候主菜单始终位于顶部。另外，目前网络上虽然也有类似的教程，但大多设置完后会在手机端出现 bug，即在手机端查看产品页面的时候，产品图片会被固定的主菜单遮挡一部分。而对于独立站卖家来说，手机端的界面是远比桌面端要重要的，绝大多数卖家的手机端流量都会超过 70%。所以，本文就提供一种方法将手机端的这个 bug 也一并解决。</p>
+<h2 id="第一步：备份主题"><a href="#第一步：备份主题" class="headerlink" title="第一步：备份主题"></a>第一步：备份主题</h2><p><strong>在开始之前，请一定要记住先备份一下主题！</strong></p>
+<h2 id="第二步：添加-CSS-代码设置主菜单的样式"><a href="#第二步：添加-CSS-代码设置主菜单的样式" class="headerlink" title="第二步：添加 CSS 代码设置主菜单的样式"></a>第二步：添加 CSS 代码设置主菜单的样式</h2><p>首先，我们要通过 <strong>Online Store &gt;&gt; Theme &gt;&gt; Customize</strong> 进入主题自定义页面，在 Home Page 的模版中选择 Header，并将 Enable Transparent Header on the Homepage 取消勾选，以免与将要添加的代码冲突。</p>
+<p>然后我们来到 Shopify 店铺的后台，通过 <strong>Online Store &gt;&gt; Theme &gt;&gt; Actions &gt;&gt; Edit Code</strong> 进入 Brooklyn 主题的代码编辑页面。在搜索栏搜索 <strong>theme.scss.liquid</strong> 并打开 <strong>theme.scss.liquid</strong> 这个代码文件。</p>
+<p>接下来，我们将页面滑倒底部，复制下面提供的代码，然后粘贴到最后的位置并点击右上角绿色的 Save 按钮保存，如下图所示。这一部分主要是设置了主菜单的样式，分别是将主菜单的背景设置为白色，并且分别在顶部和底部加上两条半透明的分割线。</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* Sticky Header for Brooklyn Theme | b2cstory.com */</span></span><br><span class="line"> <span class="selector-class">.site-header</span> &#123;</span><br><span class="line"> <span class="attribute">padding-top</span>: <span class="number">0</span>;</span><br><span class="line"> <span class="attribute">background</span>: <span class="number">#ffffff</span>;</span><br><span class="line"> <span class="attribute">border-bottom</span>: <span class="number">1px</span> solid <span class="built_in">rgba</span>(<span class="number">200</span>,<span class="number">200</span>,<span class="number">200</span>,.<span class="number">5</span>);</span><br><span class="line"> <span class="attribute">border-top</span>: <span class="number">1px</span> solid <span class="built_in">rgba</span>(<span class="number">200</span>,<span class="number">200</span>,<span class="number">200</span>,.<span class="number">5</span>);</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="第三步：添加-JS-代码使主菜单固定"><a href="#第三步：添加-JS-代码使主菜单固定" class="headerlink" title="第三步：添加 JS 代码使主菜单固定"></a>第三步：添加 JS 代码使主菜单固定</h2><p>第二步，我们要添加 JS 代码使主菜单固定。在 Brooklyn 主题的代码编辑页面搜索 <strong>theme.js.liquid</strong> 并打开 <strong>theme.js.liquid</strong> 这个代码文件。依旧是将页面滑倒底部，复制下面提供的代码，然后粘贴到最后的位置并点击右上角绿色的 Save 按钮保存即可，如下图所示。</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// Sticky Header for Brooklyn Theme | b2cstory.com</span></span><br><span class="line"><span class="keyword">var</span> oTop = $(<span class="string">&quot;.site-header&quot;</span>).<span class="title function_">offset</span>().<span class="property">top</span>;</span><br><span class="line"> <span class="keyword">var</span> martop = $(<span class="string">&#x27;.site-header&#x27;</span>).<span class="title function_">outerHeight</span>();</span><br><span class="line"> <span class="keyword">var</span> sTop = <span class="number">0</span>;</span><br><span class="line"> $(<span class="variable language_">window</span>).<span class="title function_">scroll</span>(<span class="keyword">function</span> (<span class="params"></span>) &#123;</span><br><span class="line">     sTop = $(<span class="variable language_">this</span>).<span class="title function_">scrollTop</span>();</span><br><span class="line">     <span class="keyword">if</span> (sTop &gt;= oTop) &#123;</span><br><span class="line">         $(<span class="string">&quot;.site-header&quot;</span>).<span class="title function_">css</span>(&#123; <span class="string">&quot;position&quot;</span>: <span class="string">&quot;fixed&quot;</span>, <span class="string">&quot;top&quot;</span>: <span class="string">&quot;0&quot;</span>,<span class="string">&#x27;width&#x27;</span>:<span class="string">&#x27;100%&#x27;</span> &#125;);</span><br><span class="line">         $(<span class="string">&quot;.main-content&quot;</span>).<span class="title function_">css</span>(&#123; <span class="string">&quot;margin-top&quot;</span>: martop &#125;);</span><br><span class="line">     &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">         $(<span class="string">&quot;.site-header&quot;</span>).<span class="title function_">css</span>(&#123; <span class="string">&quot;position&quot;</span>: <span class="string">&quot;static&quot;</span> &#125;);</span><br><span class="line">         $(<span class="string">&quot;.main-content&quot;</span>).<span class="title function_">css</span>(&#123; <span class="string">&quot;margin-top&quot;</span>: <span class="string">&quot;0&quot;</span> &#125;);</span><br><span class="line">     &#125;</span><br><span class="line"> &#125;)</span><br></pre></td></tr></table></figure>
+
+<p>最后，我们可以拿出手机来查看一下效果了。如下图所示，滑动的时候可以确保顶部菜单是固定的，而且产品页的产品图片也并没有被主菜单所遮挡，完美地达到了我们预期的效果。</p>
+<p>由于 Shopify 官方也会不定期维护 Brooklyn 主题并更新代码，所以本教程并不能保证永久有效，至少在本文发出时，这个方法还是有效可行的。</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:b2cstory@gmail.com">B2C Story</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://b2cstory.com/shopify-brooklyn-theme-sticky-header/">https://b2cstory.com/shopify-brooklyn-theme-sticky-header/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://b2cstory.com" target="_blank">B2C Story</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/Shopify/">Shopify</a><a class="post-meta__tags" href="/tags/Shopify-Theme/">Shopify Theme</a></div><div class="post_share"><div class="social-share" data-image="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js" defer></script></div></div><nav class="pagination-post" id="pagination"><div class="next-post pull-full"><a href="/shopify-app-form-builder/"><img class="next-cover" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">用 Shopify 的 Form Builder App 为 Etsy 的定制产品创建图片上传页面</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/shopify-turbo-theme/" title="Shopify 响应式主题 Turbo 介绍"><img class="cover" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-03-28</div><div class="title">Shopify 响应式主题 Turbo 介绍</div></div></a></div><div><a href="/shopify-app-massfulfill/" title="用 MassFulfill 在 Shopify 后台批量上传追踪码"><img class="cover" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-03-27</div><div class="title">用 MassFulfill 在 Shopify 后台批量上传追踪码</div></div></a></div><div><a href="/shopify-track-your-order-page/" title="为 Shopify 店铺创建 Track Your Order 页面"><img class="cover" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-03-31</div><div class="title">为 Shopify 店铺创建 Track Your Order 页面</div></div></a></div><div><a href="/shopify-app-form-builder/" title="用 Shopify 的 Form Builder App 为 Etsy 的定制产品创建图片上传页面"><img class="cover" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-04-03</div><div class="title">用 Shopify 的 Form Builder App 为 Etsy 的定制产品创建图片上传页面</div></div></a></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="/img/avatar.svg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">B2C Story</div><div class="author-info__description"></div></div><div class="card-info-data is-center"><div class="card-info-data-item"><a href="/archives/"><div class="headline">文章</div><div class="length-num">5</div></a></div><div class="card-info-data-item"><a href="/tags/"><div class="headline">标签</div><div class="length-num">3</div></a></div><div class="card-info-data-item"><a href="/categories/"><div class="headline">分类</div><div class="length-num">0</div></a></div></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/xxxxxx"><i class="fab fa-github"></i><span>Follow Me</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="mailto:b2cstory@gmail.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">This is my Blog</div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%A4%87%E4%BB%BD%E4%B8%BB%E9%A2%98"><span class="toc-number">1.</span> <span class="toc-text">第一步：备份主题</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E6%B7%BB%E5%8A%A0-CSS-%E4%BB%A3%E7%A0%81%E8%AE%BE%E7%BD%AE%E4%B8%BB%E8%8F%9C%E5%8D%95%E7%9A%84%E6%A0%B7%E5%BC%8F"><span class="toc-number">2.</span> <span class="toc-text">第二步：添加 CSS 代码设置主菜单的样式</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%B8%89%E6%AD%A5%EF%BC%9A%E6%B7%BB%E5%8A%A0-JS-%E4%BB%A3%E7%A0%81%E4%BD%BF%E4%B8%BB%E8%8F%9C%E5%8D%95%E5%9B%BA%E5%AE%9A"><span class="toc-number">3.</span> <span class="toc-text">第三步：添加 JS 代码使主菜单固定</span></a></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/shopify-brooklyn-theme-sticky-header/" title="Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片"/></a><div class="content"><a class="title" href="/shopify-brooklyn-theme-sticky-header/" title="Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片">Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片</a><time datetime="2021-04-03T19:04:52.000Z" title="发表于 2021-04-04 03:04:52">2021-04-04</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/shopify-app-form-builder/" title="用 Shopify 的 Form Builder App 为 Etsy 的定制产品创建图片上传页面"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="用 Shopify 的 Form Builder App 为 Etsy 的定制产品创建图片上传页面"/></a><div class="content"><a class="title" href="/shopify-app-form-builder/" title="用 Shopify 的 Form Builder App 为 Etsy 的定制产品创建图片上传页面">用 Shopify 的 Form Builder App 为 Etsy 的定制产品创建图片上传页面</a><time datetime="2021-04-02T18:39:18.000Z" title="发表于 2021-04-03 02:39:18">2021-04-03</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/shopify-track-your-order-page/" title="为 Shopify 店铺创建 Track Your Order 页面"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="为 Shopify 店铺创建 Track Your Order 页面"/></a><div class="content"><a class="title" href="/shopify-track-your-order-page/" title="为 Shopify 店铺创建 Track Your Order 页面">为 Shopify 店铺创建 Track Your Order 页面</a><time datetime="2021-03-30T18:30:22.000Z" title="发表于 2021-03-31 02:30:22">2021-03-31</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/shopify-turbo-theme/" title="Shopify 响应式主题 Turbo 介绍"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Shopify 响应式主题 Turbo 介绍"/></a><div class="content"><a class="title" href="/shopify-turbo-theme/" title="Shopify 响应式主题 Turbo 介绍">Shopify 响应式主题 Turbo 介绍</a><time datetime="2021-03-27T18:10:57.000Z" title="发表于 2021-03-28 02:10:57">2021-03-28</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/shopify-app-massfulfill/" title="用 MassFulfill 在 Shopify 后台批量上传追踪码"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="用 MassFulfill 在 Shopify 后台批量上传追踪码"/></a><div class="content"><a class="title" href="/shopify-app-massfulfill/" title="用 MassFulfill 在 Shopify 后台批量上传追踪码">用 MassFulfill 在 Shopify 后台批量上传追踪码</a><time datetime="2021-03-26T16:00:00.000Z" title="发表于 2021-03-27 00:00:00">2021-03-27</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2022 By B2C Story</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text">Build with ❤️ in Hong Kong.</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script><div class="js-pjax"></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
