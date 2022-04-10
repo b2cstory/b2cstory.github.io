@@ -1,0 +1,6 @@
+span.md-image::after {
+    content: attr(data-src);
+    display: block;
+    color: #4183C4;
+    text-align: center;
+}
