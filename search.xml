@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>使用 OrderlyEmails 修改 Shopify 默认邮件模版</title>
+      <link href="/change-shopify-default-email-templates-with-orderlyemails/"/>
+      <url>/change-shopify-default-email-templates-with-orderlyemails/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify App </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>iOS 使用 Shadowrocket 免拔卡解锁 TikTok 区域限制</title>
+      <link href="/ios-shadowrocket-unlock-tiktok-geo-restrictions/"/>
+      <url>/ios-shadowrocket-unlock-tiktok-geo-restrictions/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> TikTok </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>iOS 使用 Quantumult X 免拔卡解锁 TikTok 区域限制</title>
+      <link href="/ios-quantumult-x-unlock-tiktok-geo-restrictions/"/>
+      <url>/ios-quantumult-x-unlock-tiktok-geo-restrictions/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> TikTok </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Omnisend 如何设置邮件自动化工作流 —— 以弃购挽回邮件为例</title>
+      <link href="/omnisend-automation-workflow/"/>
+      <url>/omnisend-automation-workflow/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify App </tag>
+            
+            <tag> Omnisend </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Shopify 邮件营销插件 Omnisend Email Marketing 使用教程</title>
+      <link href="/shopify-app-omnisend-email-marketing-tutorial/"/>
+      <url>/shopify-app-omnisend-email-marketing-tutorial/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify App </tag>
+            
+            <tag> Omnisend </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如何注册美区 Apple ID 下载国际版抖音 TikTok</title>
+      <link href="/sign-up-us-apple-id-to-download-tiktok/"/>
+      <url>/sign-up-us-apple-id-to-download-tiktok/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> TikTok </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>iPhone 如何伪装真实海外环境进行 TikTok 账号运营</title>
+      <link href="/simulate-overseas-environment-with-iphone/"/>
+      <url>/simulate-overseas-environment-with-iphone/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> TikTok </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>用 TasteWP 免费创建测试网站自学 WordPress</title>
+      <link href="/tastewp-free-wordpress-hosting/"/>
+      <url>/tastewp-free-wordpress-hosting/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> WordPress </tag>
+            
+            <tag> WordPress Hosting </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Shopify Drop Shipping 卖家如何通过 Oberlo + Admitad 赚取速卖通联盟佣金</title>
+      <link href="/shopify-oberlo-aliexpress-admitad/"/>
+      <url>/shopify-oberlo-aliexpress-admitad/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify App </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>为 Shopify Brooklyn 主题创建新的 Collections List</title>
+      <link href="/shopify-brooklyn-theme-new-collections-list/"/>
+      <url>/shopify-brooklyn-theme-new-collections-list/</url>
+      
+        <content type="html"><![CDATA[<p>本文继续为大家介绍 Shopify Brooklyn 主题的优化 —— 创建一个新的页面展示不同的 Collections，Brooklyn 主题默认的叫法是 Collections List。</p><p>Brooklyn 默认的 Collections List 是只有一个的，即以 <code>https://xxx.com/collections</code> 的形式展现。而创建一个自定义的 Collections List 页面可以让你在此页面中只展示某些你选定的 Collection。例如，你可以创建一个“苹果配件”的页面，只在里边展示苹果的手机壳、AirPods 保护壳、拓展坞等相关配件的 Collection；而在另一个“三星配件”的页面，你可以选择只展示三星相关配件的 Collection。</p><h2 id="第一步：备份主题"><a href="#第一步：备份主题" class="headerlink" title="第一步：备份主题"></a>第一步：备份主题</h2><p><strong>在开始之前，请一定要记住先备份一下主题！</strong></p><h2 id="第二步：创建-Page-Template"><a href="#第二步：创建-Page-Template" class="headerlink" title="第二步：创建 Page Template"></a>第二步：创建 Page Template</h2><p>备份完主题后，接下来我们要做的就是为自定义 Collections List 页面创建一个 Page Template。例如，我们可以创建 <strong>page.apple-collections.liquid</strong> 和 <strong>page.samsung-collections.liquid</strong> 两个模版来分别展示苹果配件和三星配件的 Collection List。进入到代码编辑区后，我们点击 <strong>Template &gt;&gt; Add a New Template</strong> 创建一个新模版，在下拉框中选择 <strong>page</strong> 并命名为 <strong>apple-collection</strong>，该名字也可以根据自己的实际需要进行更改，如下图所示。</p><p>接下来，我们在搜索框中搜索 <strong>page.full-width.liquid</strong> 并打开，将其中的代码（或者用下方提供的代码）复制一份粘贴到我们刚刚创建的 <strong>page.apple-collection.liquid</strong> 模版中。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&lt;!-- /templates/page.full-width.liquid | b2cstory.com --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">header</span> <span class="attr">class</span>=<span class="string">&quot;section-header text-center&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h1</span>&gt;</span>&#123;&#123; page.title &#125;&#125;<span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">hr</span> <span class="attr">class</span>=<span class="string">&quot;hr--small&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">header</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;rte&quot;</span>&gt;</span></span><br><span class="line">    &#123;&#123; page.content &#125;&#125;</span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure><p>在 <code>&#123;&#123; page.content &#125;&#125;</code> 后添新增一行，并粘贴以下调用 Section Template 的代码，如下图所示。要注意，此处的 <strong>apple-collection-template</strong> 要与稍后创建的新的 Section Template 名字保持一致。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% section &#x27;apple-collection-template&#x27; %&#125;</span><br></pre></td></tr></table></figure><h2 id="第三步：创建-Section-Template"><a href="#第三步：创建-Section-Template" class="headerlink" title="第三步：创建 Section Template"></a>第三步：创建 Section Template</h2><p>创建一个新的 Section 模版，将其命名为 <strong>apple-collection-template</strong>（可根据实际情况修改，但要保持与刚刚添加的调用 Section 处的名称保持一致）并将原有的代码全部删除。</p><p>接着，我们搜索 <strong>list-collections-template.liquid</strong>，打开后将其中的代码复制到我们刚刚创建的 <strong>apple-collection-template.liquid</strong> 中。接着，我们找出下边的这部分代码将其删除。删除这部分代码是因为我们通过创建新页面调用我们刚刚的模版，标题会自动根据页面输入的标题显示，而无需使用 Collection List 自带的标题。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">header</span> <span class="attr">class</span>=<span class="string">&quot;section-header text-center&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h1</span>&gt;</span>&#123;&#123; &#x27;collections.general.catalog_title&#x27; | t &#125;&#125;<span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">hr</span> <span class="attr">class</span>=<span class="string">&quot;hr--small&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">header</span>&gt;</span></span><br></pre></td></tr></table></figure><h2 id="第四步：创建新的-Collections-List-页面"><a href="#第四步：创建新的-Collections-List-页面" class="headerlink" title="第四步：创建新的 Collections List 页面"></a>第四步：创建新的 Collections List 页面</h2><p>最后，我们就可以创建一个新的 Collections List 了。回到 Shopify 的后台，在 <strong>Online Store &gt;&gt; Pages</strong> 中创建一个新页面，将其命名为 Apple Accessories 并调用我们刚刚创建的 <strong>apple-collection-template.liquid</strong> 这个模版。接着，我们在 <strong>Online Store &gt;&gt; Themes</strong> 中点击 <strong>Customize</strong> 进行自定义设置。如下图所示，在新页面的下拉框中选择我们刚刚创建的 Apple Accessories 页面。</p><p>按照下图所示的步骤，点击 <strong>Collections List Page</strong>，然后选择 <strong>Selected</strong> 只展示选择的 Collection，接着点击 <strong>Add Collection</strong> 选择我们要展示的 Collection。由于我们的 Collections List 页面命名为 Apple Accessories，所以在此我们只选择 iPhone Case 和 iPad Case 这两个 Collection。设置完成后保存即可。</p><h2 id="第五步：查看最终效果"><a href="#第五步：查看最终效果" class="headerlink" title="第五步：查看最终效果"></a>第五步：查看最终效果</h2><p>回到 Apple Accessories 的页面编辑器，我们还可以在文本框中输入文字或是添加图片等等对该页面进行进一步的优化。保存之后可以点击 <strong>View Page</strong> 查看页面的效果。</p><p>最终的效果如下图所示。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify Theme </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Shopify Brooklyn 主题固定菜单栏并避免手机端遮挡产品图片</title>
+      <link href="/shopify-brooklyn-theme-sticky-header/"/>
+      <url>/shopify-brooklyn-theme-sticky-header/</url>
+      
+        <content type="html"><![CDATA[<p>本文为大家介绍一下如何为 Shopify Brooklyn 主题设置固定菜单栏，并且如何避免手机端出现产品图片被遮挡的问题。</p><p>Brooklyn 主题是由 Shopify 官方推出的一款免费主题。对于刚刚进入独立站这个行业，资金还不是很充裕的卖家来说，Brooklyn 这款免费的主题是一个极为不错的选择。当然，相比 <a href="https://outofthesandbox.com/products/turbo-theme-portland?rfsn=4714227.94d985b&utm_source=refersion&utm_medium=affiliate&utm_campaign=4714227.94d985b">Turbo Portland 主题</a>或者其他一些更加专业性的主题来说，Brooklyn 在可自定义程度上还是有些不足。如果在功能方面有更高的要求，可能就需要通过自定义代码或是安装 App 的形式来实现。</p><p>本着能自己用代码解决就绝不多装一个 App 的原则（避免拖慢网站速度），接下来就为大家介绍如何通过自定义代码，将 Brooklyn 主题的主菜单设置为固定菜单，即向下滑动页面的时候主菜单始终位于顶部。另外，目前网络上虽然也有类似的教程，但大多设置完后会在手机端出现 bug，即在手机端查看产品页面的时候，产品图片会被固定的主菜单遮挡一部分。而对于独立站卖家来说，手机端的界面是远比桌面端要重要的，绝大多数卖家的手机端流量都会超过 70%。所以，本文就提供一种方法将手机端的这个 bug 也一并解决。</p><h2 id="第一步：备份主题"><a href="#第一步：备份主题" class="headerlink" title="第一步：备份主题"></a>第一步：备份主题</h2><p><strong>在开始之前，请一定要记住先备份一下主题！</strong></p><h2 id="第二步：添加-CSS-代码设置主菜单的样式"><a href="#第二步：添加-CSS-代码设置主菜单的样式" class="headerlink" title="第二步：添加 CSS 代码设置主菜单的样式"></a>第二步：添加 CSS 代码设置主菜单的样式</h2><p>首先，我们要通过 <strong>Online Store &gt;&gt; Theme &gt;&gt; Customize</strong> 进入主题自定义页面，在 Home Page 的模版中选择 Header，并将 Enable Transparent Header on the Homepage 取消勾选，以免与将要添加的代码冲突。</p><p>然后我们来到 Shopify 店铺的后台，通过 <strong>Online Store &gt;&gt; Theme &gt;&gt; Actions &gt;&gt; Edit Code</strong> 进入 Brooklyn 主题的代码编辑页面。在搜索栏搜索 <strong>theme.scss.liquid</strong> 并打开 <strong>theme.scss.liquid</strong> 这个代码文件。</p><p>接下来，我们将页面滑倒底部，复制下面提供的代码，然后粘贴到最后的位置并点击右上角绿色的 Save 按钮保存，如下图所示。这一部分主要是设置了主菜单的样式，分别是将主菜单的背景设置为白色，并且分别在顶部和底部加上两条半透明的分割线。</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* Sticky Header for Brooklyn Theme | b2cstory.com */</span></span><br><span class="line"> <span class="selector-class">.site-header</span> &#123;</span><br><span class="line"> <span class="attribute">padding-top</span>: <span class="number">0</span>;</span><br><span class="line"> <span class="attribute">background</span>: <span class="number">#ffffff</span>;</span><br><span class="line"> <span class="attribute">border-bottom</span>: <span class="number">1px</span> solid <span class="built_in">rgba</span>(<span class="number">200</span>,<span class="number">200</span>,<span class="number">200</span>,.<span class="number">5</span>);</span><br><span class="line"> <span class="attribute">border-top</span>: <span class="number">1px</span> solid <span class="built_in">rgba</span>(<span class="number">200</span>,<span class="number">200</span>,<span class="number">200</span>,.<span class="number">5</span>);</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure><h2 id="第三步：添加-JS-代码使主菜单固定"><a href="#第三步：添加-JS-代码使主菜单固定" class="headerlink" title="第三步：添加 JS 代码使主菜单固定"></a>第三步：添加 JS 代码使主菜单固定</h2><p>第二步，我们要添加 JS 代码使主菜单固定。在 Brooklyn 主题的代码编辑页面搜索 <strong>theme.js.liquid</strong> 并打开 <strong>theme.js.liquid</strong> 这个代码文件。依旧是将页面滑倒底部，复制下面提供的代码，然后粘贴到最后的位置并点击右上角绿色的 Save 按钮保存即可，如下图所示。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// Sticky Header for Brooklyn Theme | b2cstory.com</span></span><br><span class="line"><span class="keyword">var</span> oTop = $(<span class="string">&quot;.site-header&quot;</span>).<span class="title function_">offset</span>().<span class="property">top</span>;</span><br><span class="line"> <span class="keyword">var</span> martop = $(<span class="string">&#x27;.site-header&#x27;</span>).<span class="title function_">outerHeight</span>();</span><br><span class="line"> <span class="keyword">var</span> sTop = <span class="number">0</span>;</span><br><span class="line"> $(<span class="variable language_">window</span>).<span class="title function_">scroll</span>(<span class="keyword">function</span> (<span class="params"></span>) &#123;</span><br><span class="line">     sTop = $(<span class="variable language_">this</span>).<span class="title function_">scrollTop</span>();</span><br><span class="line">     <span class="keyword">if</span> (sTop &gt;= oTop) &#123;</span><br><span class="line">         $(<span class="string">&quot;.site-header&quot;</span>).<span class="title function_">css</span>(&#123; <span class="string">&quot;position&quot;</span>: <span class="string">&quot;fixed&quot;</span>, <span class="string">&quot;top&quot;</span>: <span class="string">&quot;0&quot;</span>,<span class="string">&#x27;width&#x27;</span>:<span class="string">&#x27;100%&#x27;</span> &#125;);</span><br><span class="line">         $(<span class="string">&quot;.main-content&quot;</span>).<span class="title function_">css</span>(&#123; <span class="string">&quot;margin-top&quot;</span>: martop &#125;);</span><br><span class="line">     &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">         $(<span class="string">&quot;.site-header&quot;</span>).<span class="title function_">css</span>(&#123; <span class="string">&quot;position&quot;</span>: <span class="string">&quot;static&quot;</span> &#125;);</span><br><span class="line">         $(<span class="string">&quot;.main-content&quot;</span>).<span class="title function_">css</span>(&#123; <span class="string">&quot;margin-top&quot;</span>: <span class="string">&quot;0&quot;</span> &#125;);</span><br><span class="line">     &#125;</span><br><span class="line"> &#125;)</span><br></pre></td></tr></table></figure><p>最后，我们可以拿出手机来查看一下效果了。如下图所示，滑动的时候可以确保顶部菜单是固定的，而且产品页的产品图片也并没有被主菜单所遮挡，完美地达到了我们预期的效果。</p><p>由于 Shopify 官方也会不定期维护 Brooklyn 主题并更新代码，所以本教程并不能保证永久有效，至少在本文发出时，这个方法还是有效可行的。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify Theme </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>用 Shopify 的 Form Builder App 为 Etsy 的定制产品创建图片上传页面</title>
+      <link href="/shopify-app-form-builder/"/>
+      <url>/shopify-app-form-builder/</url>
+      
+        <content type="html"><![CDATA[<p>本文为大家介绍的是如何解决 Etsy 的顾客在购买定制产品的时候上传图片的问题。本文中提到的方法主要是针对既在 Etsy 开店又有自己 Shopify 独立站的卖家，需要用到一款由 <a href="https://www.hulkapps.com/?ref=shadow&utm_source=chrischow1&utm_campaign=HulkApps+Partner+Program">HulkApps</a> 开发的叫做 <a href="https://formbuilder.hulkapps.com/login/?ref=shadow">Form Builder with File Upload</a> 的 App。</p><p>对于在 Etsy 出售图片定制类产品的卖家来说，目前主流的方法是让顾客通过 Etsy Messenger 发送想要定制的图片，更进一步者，会选择在产品介绍里留下自己的邮箱并让顾客选择通过邮件发送图片，这两种方法都不失为有效可行的方法。然而，根据来自 Tamebay 网站中一篇关于三个平台定制产品的对比《<a href="https://tamebay.com/2017/05/custom-made-items-ebay-amazon-and-etsy-compared.html">Custom made items: eBay, Amazon and Etsy compared</a>》显示，虽然通过  Etsy Messenger 发送的图片尺寸没有被调整过，但是却被压缩了。</p><blockquote><p><em>The results from Etsy are interesting, the image is compressed but it’s not resized. The image size was retained at 5312 × 2988 pixels. The DPI remained at 72 but the file size reduced from 4.32 MB to 2.55 MB. This is a lossy compression, where some information in the file has been deleted and so the picture isn’t quite as sharp as the original. However due to the original file size I couldn’t detect any difference on a computer screen – it may make a difference if you’re ordering a five foot poster print, but for most purposes it’s safe to say that images sent through Etsy are perfectly usable.</em></p></blockquote><p>测试图片的尺寸仍然保留在 5312 × 2988 像素，DPI 也保持在 72，但是文件的大小却从原来的 4.32 MB 减少到了 2.55 MB。这是很明显的有损压缩，图片中的某些细节在压缩过程中被移除了，因此收到的图片看起来也不如原来那么清晰。虽然对于定制小尺寸产品来说这点细节的损失可能影响不是很大，但如果顾客是定制的比较大的尺寸，比如打印一张五英寸的海报，损失的细节看起来就会比较明显了。</p><p>通过邮件发送的话多了一步顾客在新窗口打开邮箱并发送的操作，而你能收到的也只是顾客发送的一张图片而已。既然如此，我们为何不更进一步，在自己的 Shopify 独立站上单独打造一个页面，让在 Etsy 下单了定制产品的顾客来到我们的 Shopify 独立站上传图片呢？如此一来，不仅可以解决图片被压缩的问题，还可以将 Etsy 的顾客转化为我们 Shopify 独立站的潜在用户。要知道在 Shopify 独立站上刺激消费者下单的方式远比 Etsy 要多，可以通过各种 Upsell 提高客单价，也可以把顾客加入 Shopify 独立站的 EDM 系统定期推送新产品等等，可谓是一举多得。</p><p>接下来，还是以 <a href="https://outofthesandbox.com/products/turbo-theme-portland?rfsn=4714227.94d985b&utm_source=refersion&utm_medium=affiliate&utm_campaign=4714227.94d985b">Turbo Portland 主题</a>为例，为大家详细的介绍如何通过 <a href="https://formbuilder.hulkapps.com/login/?ref=shadow">Form Builder with File Upload</a> 创建单独的页面，让 Etsy 的顾客可以在我们的 Shopify 独立站上提交定制图片。</p><h2 id="第一步：安装-Form-Builder-with-File-Upload"><a href="#第一步：安装-Form-Builder-with-File-Upload" class="headerlink" title="第一步：安装 Form Builder with File Upload"></a>第一步：安装 Form Builder with File Upload</h2><p>点击下方的按钮，进入下图所示界面，输入我们的店铺地址再点击 Install 按钮跳转到 Shopify 后台的应用安装界面。</p><p>再点击 Install App，完成 <a href="https://formbuilder.hulkapps.com/login/?ref=shadow">Form Builder with File Upload</a> 在自己 Shopify 店铺的安装。</p><h2 id="第二步：创建图片上传表单"><a href="#第二步：创建图片上传表单" class="headerlink" title="第二步：创建图片上传表单"></a>第二步：创建图片上传表单</h2><p>安装完成后，会自动跳转到 <a href="https://formbuilder.hulkapps.com/login/?ref=shadow">Form Builder with File Upload</a> 的后台界面。我们点击 Create New Form 或是 New Form 按钮开始创建新的表单。</p><p>在新页面中，点击 Blank Form 创建一个空白的表单。</p><p>接下来，我们可以看到创建一个新的表单只需要 CONNECT &gt;&gt; CONTENT &gt;&gt; DESIGN 这三步。</p><h3 id="CONNECT"><a href="#CONNECT" class="headerlink" title="CONNECT"></a>CONNECT</h3><ul><li><strong>Form Details:</strong> 需要填写表单名称（Form Name）和接收通知的邮件地址（Notification Email Addresses）；</li><li><strong>Form Schedule:</strong> 设置表单的起止日期，这个我们用不到可以直接跳过；</li><li><strong>Shopify Integration:</strong> 可以为提交表单的 Etsy 顾客自动创建我们 Shopify 店铺的账户以及发送激活账户的邮件，如果想要把 Etsy 的顾客转化为我们 Shopify 店铺的用户，可以勾选这两项；</li><li><strong>Mail Integration:</strong> 可以接入 <a href="https://mailchimp.com/">Mailchimp</a> 或是 <a href="https://www.klaviyo.com/partner/signup?utm_source=0013o00002Vl2pc&utm_medium=partner">Klaviyo</a> 这两个邮件营销的应用；</li><li><strong>Payment Integration:</strong> 可以接入 Stripe。</li></ul><h3 id="CONTENT"><a href="#CONTENT" class="headerlink" title="CONTENT"></a>CONTENT</h3><ul><li><strong>Form Settings:</strong> 表单的标题（Form Title），描述（Description）以及提交按钮的文本（Submit Button Text）；</li><li><strong>Form Element:</strong> 需要顾客填写的内容，可以根据自己的需求进行组合；</li><li><strong>Captcha:</strong> 谷歌 “I’m not a robot” 验证；</li><li><strong>Customize Form Messages:</strong> 自定义表单消息，一般情况下无需修改；</li><li><strong>Customize Form Scrolling:</strong> 自定义表单滚动，即表单提交报错或者提交成功后自动返回顶端；</li><li><strong>After Submit:</strong> 设置表单提交成功后显示的内容；</li><li><strong>Auto Responder:</strong> 设置自动回复；</li><li><strong>Admin Email:</strong> 配置表单元素回复顾客邮件。</li></ul><h3 id="DESIGN"><a href="#DESIGN" class="headerlink" title="DESIGN"></a>DESIGN</h3><ul><li><strong>Layout:</strong> 设置表单布局；</li><li><strong>Form:</strong> 设计样式，背景、阴影、宽度等等；</li><li><strong>Input:</strong> 设置输入部分的样式；</li><li><strong>Submit Button:</strong> 设置提交按钮的样式；</li><li><strong>Advanced:</strong> 高级设置，关联 Google Analytics Tracking ID 和 Facebook Pixel ID 等。</li></ul><p>在本案例中，我们主要添加了以下 Form Element，其他部分并未进行改动。</p><h2 id="第三步：创建表单页面"><a href="#第三步：创建表单页面" class="headerlink" title="第三步：创建表单页面"></a>第三步：创建表单页面</h2><p>当我们将表单设计完成后，可以点击底部的 Publish 进行发布。接着会跳转到 Current Forms 页面，这个页面会显示我们目前已经创建过的表单。我们点击复制的按钮，复制 Form Builder 生成的短代码。</p><p>接下来，我们在 Shopify 店铺的后台创建一个新页面（Online Store &gt;&gt; Pages &gt;&gt; Add Page），点击右侧的代码图标进入代码编辑模式后，将刚才复制的短代码粘贴到编辑器中并保存。这样，一个可以让用户上传图片的表单页面就制作完成了。</p><p>完成后的页面如下图所示。</p><h2 id="第四步：提交测试表单"><a href="#第四步：提交测试表单" class="headerlink" title="第四步：提交测试表单"></a>第四步：提交测试表单</h2><p>最后，我们需要填入信息测试一下表单功能是否正常。填入信息提交后，我们回到 Form Builder with File Upload 的后台，点击 Customize Form。</p><p>可以看到 No. of Responses 显示的数量为 1，说明我们刚刚的表单提交成功了。然后再点击 Submitted Responses 检查一下信息是否正确，图片能否正常下载即可。</p><p>如果你觉得这款由 HulkApps 出品的 <a href="https://formbuilder.hulkapps.com/login/?ref=shadow">Form Builder with File Upload</a> 对你有所帮助，不妨点击下面的按钮立刻体验吧！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify App </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>为 Shopify 店铺创建 Track Your Order 页面</title>
+      <link href="/shopify-track-your-order-page/"/>
+      <url>/shopify-track-your-order-page/</url>
+      
+        <content type="html"><![CDATA[<p>本文为大家介绍如何通过外部调用 17TRACK 为自己的 Shopify 店铺创建 Track Your Order 页面。</p><p>虽然 Shopify App Store 中有很多 App 可以实现这个功能，但是大家都知道多装一个 App，网站的速度就被拖慢一点。本着能不装 App 就不装的原则，我们可以通过一段简单的代码就能轻松的在自己的 Shopify 店铺上创建一个 Track Your Order 页面。此外，将 Track Your Order 页面放在我们网站的主菜单或是底部，也可以增强用户对我们店铺的信任感。</p><p>接下来，我们就以 <a href="https://outofthesandbox.com/products/turbo-theme-portland?rfsn=4714227.94d985b&utm_source=refersion&utm_medium=affiliate&utm_campaign=4714227.94d985b">Turbo 主题</a>为例，给大家示范一下如何操作以及最终可以实现的效果。</p><p>首先，我们来到 Shopify 店铺的后台，在 <strong>Online Store &gt;&gt; Pages</strong> 中添加一个新的页面。然后点击 Show HTML 的图标进入代码编辑模式，将下边给出的代码复制进去，保存后即可预览页面查看效果。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">align</span>=<span class="string">&quot;center&quot;</span> <span class="attr">style</span>=<span class="string">&quot;margin-top:10px; margin-bottom:20px&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">class</span>=<span class="string">&quot;Form__Input&quot;</span> <span class="attr">type</span>=<span class="string">&quot;text&quot;</span> <span class="attr">placeholder</span>=<span class="string">&quot;Enter your number&quot;</span> <span class="attr">id</span>=<span class="string">&quot;YQNum&quot;</span> <span class="attr">maxlength</span>=<span class="string">&quot;50&quot;</span> <span class="attr">style</span>=<span class="string">&quot;width:100%; height:57px&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">class</span>=<span class="string">&quot;Button&quot;</span> <span class="attr">style</span>=<span class="string">&quot;background:#000; border-radius:0; width:100%; height:50px; margin-left:0px; color:#fff&quot;</span> <span class="attr">type</span>=<span class="string">&quot;button&quot;</span> <span class="attr">value</span>=<span class="string">&quot;TRACK&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;doTrack()&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">&quot;YQContainer&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">&quot;text/javascript&quot;</span> <span class="attr">src</span>=<span class="string">&quot;//www.17track.net/externalcall.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">&quot;text/javascript&quot;</span>&gt;</span><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript"><span class="keyword">function</span> <span class="title function_">doTrack</span>(<span class="params"></span>) &#123;</span></span><br><span class="line"><span class="language-javascript">    <span class="keyword">var</span> num = <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&quot;YQNum&quot;</span>).<span class="property">value</span>;</span></span><br><span class="line"><span class="language-javascript">    <span class="keyword">if</span>(num===<span class="string">&quot;&quot;</span>)&#123;</span></span><br><span class="line"><span class="language-javascript">        <span class="title function_">alert</span>(<span class="string">&quot;Enter your number.&quot;</span>);</span></span><br><span class="line"><span class="language-javascript">        <span class="keyword">return</span>;</span></span><br><span class="line"><span class="language-javascript">    &#125;</span></span><br><span class="line"><span class="language-javascript">    <span class="title class_">YQV5</span>.<span class="title function_">trackSingle</span>(&#123;</span></span><br><span class="line"><span class="language-javascript">        <span class="attr">YQ_ContainerId</span>:<span class="string">&quot;YQContainer&quot;</span>,</span></span><br><span class="line"><span class="language-javascript">        <span class="attr">YQ_Height</span>:<span class="number">560</span>,</span></span><br><span class="line"><span class="language-javascript">        <span class="attr">YQ_Fc</span>:<span class="string">&quot;0&quot;</span>,</span></span><br><span class="line"><span class="language-javascript">        <span class="attr">YQ_Lang</span>:<span class="string">&quot;en&quot;</span>, <span class="attr">YQ_Num</span>:num</span></span><br><span class="line"><span class="language-javascript">    &#125;);</span></span><br><span class="line"><span class="language-javascript">&#125;</span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure><p>接下来，我们可以在下面继续补充一些自己的配送政策或者物流相关的 FAQ 等，使 Track Your Order 页面更加完善。最终实现的效果如下图所示。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Shopify 响应式主题 Turbo 介绍</title>
+      <link href="/shopify-turbo-theme/"/>
+      <url>/shopify-turbo-theme/</url>
+      
+        <content type="html"><![CDATA[<p>本文为大家介绍一下由 Out of the Sandbox 出品的 Shopify 响应式主题 —— <a href="https://outofthesandbox.com/products/turbo-theme-portland?rfsn=4714227.94d985b&utm_source=refersion&utm_medium=affiliate&utm_campaign=4714227.94d985b">Turbo 主题</a>。Turbo 是非 Shopify 官方出品的主题中使用频率极高的一款，在调研各个类型的 Shopify 店铺时经常可以看到 Turbo 的身影。作为一款售价高达 350 美元的第三方主题，Turbo 究竟有什么特色呢？下面就给大家介绍一下吧。</p><h2 id="一、Turbo-主题简介"><a href="#一、Turbo-主题简介" class="headerlink" title="一、Turbo 主题简介"></a>一、Turbo 主题简介</h2><p>Turbo 是一款功能强大的 Shopify 响应式主题，在本文发布之时已经更新到了 6.1.2 版本。这款主题因其闪电般的速度、强大的性能和高度的可定制性而闻名。对于那些想要超越竞争对手或者是扩大现有店铺规模的人来说，Turbo 绝对是一个完美的选择。</p><p>如下图所示，Turbo 主题目前拥有 6 款不同风格的模版，分别是：<a href="https://outofthesandbox.com/products/turbo-theme-portland?rfsn=4714227.94d985b">Portland</a>，<a href="https://outofthesandbox.com//products/turbo-theme-florence?rfsn=4714227.94d985b">Florence</a>，<a href="https://outofthesandbox.com/products/turbo-theme-dubai?rfsn=4714227.94d985b">Dubai</a>，<a href="https://outofthesandbox.com/products/turbo-theme-seoul?rfsn=4714227.94d985b">Seoul</a>，<a href="https://outofthesandbox.com/products/turbo-theme-tennessee?rfsn=4714227.94d985b">Tennessee</a> 以及 <a href="https://outofthesandbox.com/products/turbo-theme-chicago?rfsn=4714227.94d985b">Chicago</a>。</p><p>而许多大商家，诸如 K-SWISS，zeroUV 和 Encircled 也都是选择用 Turbo 主题来搭建自己的独立站。如果你想查看更多使用 Turbo 主题的商家，可以点击下面的按钮进行查看。</p><h2 id="二、Turbo-主题的特点"><a href="#二、Turbo-主题的特点" class="headerlink" title="二、Turbo 主题的特点"></a>二、Turbo 主题的特点</h2><ul><li><strong>智能页面预加载：</strong>Turbo 会根据算法预测用户将要打开的下一个页面，并在后台提前加载。当用户点击该链接的时候，页面已经部分或全部加载完成。</li><li><strong>两种性能设置可供选择：</strong>可以在设置中选择 Ludicrous 或者 Sport 模式。每一种模式都可以让你的网站快速、平稳地运行。</li><li><strong>可添加多列子菜单的 Mega Menu：</strong>最多可以添加 5 列，无论是图片、文本，还是产品和 Collection，都可以放到其中。</li><li><strong>添加自定义的 CSS 代码：</strong>可以直接在主题设计器中调整部分设计，进一步定制你的网站。</li><li><strong>更加灵活的产品布局：</strong>包括使用标签 ( Tab )、添加独特的部分、嵌入视频，或者将整个产品的描述放到产品图片的下方。</li><li><strong>预测性搜索：</strong>用户在搜索时会自动预测内容并在搜索框中显示。</li><li><strong>内置订阅弹窗功能：</strong>吸引用户订阅你的商店，定期推送新产品、活动或是促销。</li><li><strong>详细的使用教程：</strong>Turbo 官网具有十分详细的操作使用指南，几乎所有功能上的问题都可以找到答案。</li></ul><h2 id="三、Turbo-主题的购买及安装"><a href="#三、Turbo-主题的购买及安装" class="headerlink" title="三、Turbo 主题的购买及安装"></a>三、Turbo 主题的购买及安装</h2><p>通过点击下面的按钮即可跳转到 Turbo 主题的购买页面，在该页面按照正常的购物流程添加到购物车然后付款即可。需要注意的是在付款页面的邮箱是必须要填写的，因为付款成功后 Turbo 主题的安装包和账单信息会一起发送到你刚刚填写的邮箱。</p><p>付款成功后，打开我们的邮箱。可以看到已经收到了两封来自 Out of the Sandbox 的邮件，分别是订单确认和主题下载，如下图所示。</p><p>在订单确认邮件中，我们可以下载 PDF 的发票；在主题下载邮件中，我们可以通过链接下载 Turbo 主题的压缩包。需要注意的是，下载链接是会过期的，而且只能使用三次，所以建议及时下载 Turbo 主题并做好备份工作。</p><p>接下来，我们将下载下来的压缩包解压，可以看到一共有 7 个压缩包，这 7 个压缩包才是 Turbo 主题的安装文件。大家可以按照自己喜欢的风格选择对应的主题安装。</p><p>打开 Shopify 的后台，在 Online Store 的 Themes 中下拉找到 Upload Theme，点击上传我们要安装的主题即可。</p><p>上传成功后，我们还需要在 Actions 里选择一下 Publish，就可以将 Turbo 主题应用到我们的店铺了。只不过目前我们导入的是空白的模版，所以网站的具体设计以及相关设置还是要按照我们自己的需求来完成。</p><p>关于 Turbo 主题的介绍暂时告一段落，如果你觉得 Turbo 正是你打造高颜值、高转化率的独立站所缺少的一款主题，可以点击下方的按钮进行购买。本站后续还会推出一系列 Turbo 主题的使用教程及一些自定义功能的开发，欢迎持续关注！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify Theme </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>用 MassFulfill 在 Shopify 后台批量上传追踪码</title>
+      <link href="/shopify-app-massfulfill/"/>
+      <url>/shopify-app-massfulfill/</url>
+      
+        <content type="html"><![CDATA[<p>本文为大家介绍的这款 Shopify App 叫做 MassFulfill，可以帮助你在 Shopify 店铺的后台批量上传订单的物流追踪码，并使用 Shopify 默认的邮件模版向客户发送物流更新通知。</p><p>MassFulfill 不仅使用起来极为简单，最重要的是它是<strong>完全免费</strong>的。接下来，就向大家详细介绍一下 MassFulfill 的安装和使用方法。</p><h2 id="第一步：安装-MassFulfill"><a href="#第一步：安装-MassFulfill" class="headerlink" title="第一步：安装 MassFulfill"></a>第一步：安装 MassFulfill</h2><p>通过下面的按钮进入 MassFulfill 的 App 详情页，点击 Add App 跳转到 Shopify 后台，再点击右下角的 Install App 将其安装到自己的 Shopify 店铺。</p><a class="btn-beautify block center larger" href="https://apps.shopify.com/massfulfill"   title="即刻体验 MassFulfill"><i class="far fa-hand-point-right"></i><span>即刻体验 MassFulfill</span></a><p><img src="/img/post/01-shopify-app-massfulfill/02-add-massfulfill-to-shopify-store.png" alt="点击 Add App 将 MassFulfill 添加到 Shopify 店铺" title="点击 Add App 将 MassFulfill 添加到 Shopify 店铺"></p><h2 id="第二步：下载表格模版并录入订单的物流追踪码"><a href="#第二步：下载表格模版并录入订单的物流追踪码" class="headerlink" title="第二步：下载表格模版并录入订单的物流追踪码"></a>第二步：下载表格模版并录入订单的物流追踪码</h2><p>MassFulfill 安装完成后，会自动跳转到其后台页面。我们需要点击 Fulfill 标题下的 Entire Order，并在跳转后的新页面点击 Download Template 下载表格模版。</p><p>接下来打开我们下载的表格模版，可以看到只需要填写简单的四列信息：</p><ul><li><strong>ORDER_NAME:</strong> 订单号</li><li><strong>TRACKING_COMPANY:</strong> 物流公司，如 Drop Shipping 卖家常用的 China Post</li><li><strong>TRACKING_NUMBER:</strong> 订单的物流追踪码</li><li><strong>TRACKING_URL:</strong> 建议填写自己店铺的 Track Your Order 页面</li></ul><h2 id="第三步：上传表格"><a href="#第三步：上传表格" class="headerlink" title="第三步：上传表格"></a>第三步：上传表格</h2><p>表格填完后，回到第二步中的 Fulfill Complete Orders 页面，点击 Select or Drop a File 上传我们刚刚完成的表格。</p><p>在新页面中确认各项一一对应后，点击 Next 进入下一步。</p><p>确认一下无误后，将右下角的四项分别勾选，然后点击 Fulfill 即可成功上传订单的物流追踪码。</p><p>最后，我们再回到 Shopify 的后台，可以看到刚刚上传了追踪码的订单已经变成 Fulfilled 状态了。进入订单详情后，可以看到对应的追踪码以及成功地向客户发送了物流确认邮件。</p><p>最后，如果你觉得 MassFulfill 正是你所需要的一款 App，不妨立即点击下面的按钮安装体验吧！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify App </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
