@@ -150,7 +150,7 @@
 <li>对手机进行相关设置伪装海外环境，可参考《<a href="https://b2cstory.com/simulate-overseas-environment-with-iphone/">iPhone 如何伪装真实海外环境进行 TikTok 账号运营</a>》一文。</li>
 </ol>
 <h2 id="二、编辑-Quantumult-X-配置文件"><a href="#二、编辑-Quantumult-X-配置文件" class="headerlink" title="二、编辑 Quantumult X 配置文件"></a>二、编辑 Quantumult X 配置文件</h2><p>进入 Quantumult X，点击右下角的圆形按钮，下拉至最后，在配置文件 (Profile) 模块的下面点击编辑 (Edit)，如下图所示。</p>
-<p><img src="/ios-quantumult-x-unlock-tiktok-geo-restrictions/quantumult-x-settings.PNG" alt="编辑 Quantumult X 配置文件"></p>
+<p><img src="/ios-quantumult-x-unlock-tiktok-geo-restrictions/quantumult-x-settings.png" alt="编辑 Quantumult X 配置文件"></p>
 <p>打开配置文件后，依次找到 <strong><code>[rewrite_local]</code></strong> 和 **<code>[mitm]</code>**，并在其下方粘贴以下相应代码，然后点击右上角保存即可。</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">[rewrite_local]</span><br><span class="line">#tiktok 解锁直播区域限制</span><br><span class="line">(?&lt;=_region=)CN(?=&amp;) url 307 US</span><br><span class="line">(?&lt;=&amp;mcc_mnc=)4 url 307 2</span><br><span class="line">^(https?:\/\/(tnc|dm)[\w-]+\.\w+\.com\/.+)(\?)(.+) url 302  $1$3</span><br><span class="line">(?&lt;=\d\/\?\w&#123;7&#125;_\w&#123;4&#125;=)1[6-9]..(?=.?.?&amp;) url 307 17</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
@@ -158,7 +158,7 @@
 
 <p>其中 <strong><code>[rewrite_local]</code></strong> 第三行最后的 US 可以根据自己的需要替换成对应国家的代码，比如想刷日区的 TikTok 就将 US 改成 JP 即可。</p>
 <p>最终如下图所示：</p>
-<p><img src="/ios-quantumult-x-unlock-tiktok-geo-restrictions/quantumult-x-codes.PNG" alt="将两段代码粘贴到对应的位置"></p>
+<p><img src="/ios-quantumult-x-unlock-tiktok-geo-restrictions/quantumult-x-codes.png" alt="将两段代码粘贴到对应的位置"></p>
 <h2 id="三、生成信任证书"><a href="#三、生成信任证书" class="headerlink" title="三、生成信任证书"></a>三、生成信任证书</h2><ol>
 <li>返回 Quantumult X 主界面，点击右下角的圆形按钮，找到 MinM 模块，点击生成证书 (Generate CA)，提示生成成功，点击安装证书后会跳转到 Safari，提示需要下载一个配置描述文件，我们点击允许即可；</li>
 <li>进入 iOS 系统设置 (Settings) &gt;&gt; 通用 (General) &gt;&gt; 描述文件 (Profile) &gt;&gt; 已下载的描述文件 &gt;&gt; 选中并安装，输入密码后即可完成描述文件安装；</li>
