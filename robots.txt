@@ -1,0 +1,5 @@
+# 允许任何搜索引擎抓取任何页面
+User-agent: *
+Allow: /
+# 站点地图地址
+Sitemap: https://b2cstory.com/sitemap.xml
