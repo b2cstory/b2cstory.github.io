@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://b2cstory.com/shopify-backend-settings/</loc>
+    
+    <lastmod>2022-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://b2cstory.com/create-a-shopify-store/</loc>
     
     <lastmod>2022-04-22</lastmod>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://b2cstory.com/sync-amazon-reviews-to-shopify-with-elfsight/</loc>
     
-    <lastmod>2022-04-21</lastmod>
+    <lastmod>2022-04-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://b2cstory.com/binance-registration-in-china/</loc>
     
-    <lastmod>2022-04-18</lastmod>
+    <lastmod>2022-04-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -256,7 +265,7 @@
 
   <url>
     <loc>https://b2cstory.com/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -264,63 +273,70 @@
   
   <url>
     <loc>https://b2cstory.com/tags/Digital-Marketing/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/tags/Shopify/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/tags/Shopify-App/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/tags/TikTok/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/tags/Omnisend/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/tags/Shopify-Theme/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/tags/WordPress/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/tags/WordPress-Hosting/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://b2cstory.com/tags/%E9%82%AE%E4%BB%B6%E8%90%A5%E9%94%80/</loc>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -329,21 +345,21 @@
   
   <url>
     <loc>https://b2cstory.com/categories/Shopify/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/categories/TikTok/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://b2cstory.com/categories/WordPress/</loc>
-    <lastmod>2022-04-22</lastmod>
+    <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
