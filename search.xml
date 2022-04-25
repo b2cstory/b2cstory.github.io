@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>如何移除 Shopify 商店底部的 “Powered by Shopify”</title>
+      <link href="/remove-powered-by-shopify/"/>
+      <url>/remove-powered-by-shopify/</url>
+      
+        <content type="html"><![CDATA[<a class="btn-beautify orange block center larger" href="https://zh.shopify.com/"   title="立即注册 Shopify 商店享受 14 天免费试用"><i class="far fa-hand-point-right"></i><span>立即注册 Shopify 商店享受 14 天免费试用</span></a><p>在我们的 Shopify 商店注册完成后，会发现商店每个页面的底部都会显示 “Powered by Shopify”，这会让访问我们商店的人知道我们的在线商店是通过 Shopify 这个平台进行搭建的。对很对卖家而言，“Powered by Shopify” 并不是我们所必须的，我们可能不想让我们的用户或是竞争对手知道我们的在线商店是通过 Shopify 搭建的。接下来，我们就为大家介绍几种方法，来把 Shopify 在线商店底部的 “Powered by Shopify” 移除掉。</p><h2 id="方法一：通过-Shopify-模版编辑语言页面移除"><a href="#方法一：通过-Shopify-模版编辑语言页面移除" class="headerlink" title="方法一：通过 Shopify 模版编辑语言页面移除"></a>方法一：通过 Shopify 模版编辑语言页面移除</h2><ol><li>登录到 Shopify 商店的后台后，依次点击<strong>在线商店 &gt; 模版 &gt; 编辑 &gt; 编辑 &gt; 编辑语言</strong>。</li></ol><p><img src="/remove-powered-by-shopify/shopify-online-store-edit-languages.jpg" alt="编辑语言"></p><ol start="2"><li>在<strong>搜索翻译</strong>框中输入 <code>powered</code>，可以看到在 <strong>Links</strong> 和 <strong>Password page</strong> 中的内容就是商店前端显示的“Powered by Shopify”。</li></ol><p><img src="/remove-powered-by-shopify/shopify-edit-languages-search-powered.jpg" alt="搜索 powered"></p><ol start="3"><li><p>在 <strong>Powered by Shopify</strong> 框中，使用键盘上的空格键来输入一个空格，即可移除商店前端显示的“Powered by Shopify”。</p></li><li><p>在 <strong>Powered by Shopify HTML</strong> 框用空格替代原来的内容，则会移除我们商店<strong>即将开业</strong>页面上显示的“Powered by Shopify”。</p></li><li><p>如果我们想让原本显示“Powered by Shopify”的地方显示我们的自定义内容，则用我们想输入的内容来替换掉刚才输入的空格并保存即可，例如我们想显示“Welcome to B2C Story!”，则文本框中输入的内容和商店前端展示的内容分别如下图所示。</p></li></ol><p><img src="/remove-powered-by-shopify/shopify-edit-languages-weolcom-to-b2c-story.jpg" alt="输入 Welcome to B2C Story!"></p><p><img src="/remove-powered-by-shopify/store-home-page-welcom-to-b2c-story.jpg" alt="商店底部显示我们的自定义内容"></p><h2 id="方法二：通过-Shopify-模版编辑代码页面移除"><a href="#方法二：通过-Shopify-模版编辑代码页面移除" class="headerlink" title="方法二：通过 Shopify 模版编辑代码页面移除"></a>方法二：通过 Shopify 模版编辑代码页面移除</h2><ol><li>登录到 Shopify 商店的后台，依次点击<strong>在线商店 — 模版 — 编辑 — 编辑代码</strong>，打开我们所安装主题的代码管理页面。</li></ol><p><img src="/remove-powered-by-shopify/shopify-online-store-edit-code.jpg" alt="编辑模版代码"></p><ol start="2"><li>在搜索框中输入 <code>footer.liquid</code> 并点击该文件打开，可以在右侧看到该文件下所包含的代码。</li></ol><p><img src="/remove-powered-by-shopify/shopify-edit-footer-code.jpg" alt="搜索并打开 footer.liquid 文件"></p><ol start="3"><li>在右侧代码部分通过快捷键 Ctrl + F 或者 command + F 打开搜索框，并输入 powered 进行搜索，我们只需要把 <code>&#123;&#123; powered_by_link &#125;&#125;</code> 所在的这一行代码删除即可移除掉商店前端显示的“Powered by Shopify”。</li></ol><p><img src="/remove-powered-by-shopify/shopify-edit-code-search-powered.jpg" alt="搜索 powered"></p><ol start="4"><li>如果我们想要将“Powered by Shopify”替换成自定义内容，则只需用我们的自定义内容替换掉 <code>&#123;&#123; powered_by_link &#125;&#125;</code> ，并将其所在行的其他代码予以保留，如下面代码所示。</li></ol><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">small</span> <span class="attr">class</span>=<span class="string">&quot;copyright__content&quot;</span>&gt;</span>Welcome to B2C Story!<span class="tag">&lt;/<span class="name">small</span>&gt;</span></span><br></pre></td></tr></table></figure><ol start="5"><li>最后，需要注意的是，对于不同的主题，此处显示的代码可能会略有不同，如果你担心自己修改会出错而导致商店前端无法正常显示，建议在 <a href="https://www.fiverr.com/">Fiverr</a> 这类自由职业者平台上找一个代码专家进行修改。不过在进行任何代码的改动之前，我们都要记得备份一下主题。</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Shopify </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Shopify 商店后台功能及设置超详细介绍</title>
       <link href="/shopify-backend-settings/"/>
       <url>/shopify-backend-settings/</url>
