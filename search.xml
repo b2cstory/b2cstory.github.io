@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Shopify Dropshipping 卖家如何从 Oberlo 迁移到 DSers</title>
+      <link href="/how-to-migrate-from-oberlo-to-dsers/"/>
+      <url>/how-to-migrate-from-oberlo-to-dsers/</url>
+      
+        <content type="html"><![CDATA[<p>在开始之前，我们需要知道只有 Oberlo 的账户管理员才可以将数据迁移到 DSers，员工账户是没有这个权限的。</p><p>迁移所要花费的时间取决于我们在 Oberlo 中所拥有的产品、订单等数据的多少。 如果需要迁移的数据较少的话，迁移过程可能只需要几分钟就可以完成；但是如果需要迁移的数据较多的话，迁移过程可能要多达数个小时。我们只需要保持网络的稳定，耐心等待即可。</p><div class="note warning flat"><p><strong>注意：</strong>在完成数据迁移之前，不要将 Oberlo 插件从 Shopify 商店卸载！！！</p></div><p>首先我们通过下方的按钮进入 DSers 的注册页面，输入邮箱和密码后点击【<strong>CREATE ACCOUNT</strong>】按钮进行注册。</p><a class="btn-beautify orange block center larger" href="https://www.dsers.com/app/register"   title="点击注册 DSers"><i class="far fa-hand-point-right"></i><span>点击注册 DSers</span></a><p><img src="/how-to-migrate-from-oberlo-to-dsers/dsers-create-account.jpg" alt="注册 DSers 账户"></p><p>在 Link Your Store 页面，我们点击 Shopify，然后输入我们 Shopify 商店的前缀，并点击【<strong>ADD STORE</strong>】按钮。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/link-your-store.png" alt="选择 Shopify"></p><p><img src="/how-to-migrate-from-oberlo-to-dsers/dsers-add-store.png" alt="输入我们 Shopify 商店的前缀并点击 ADD STORE 按钮"></p><p>跳转到 Shopify 后台后，点击【<strong>Install App</strong>】按钮，将 DSers 安装到我们的 Shopify 商店。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/dsers-install-app.png" alt="点击 Install App 按钮将 DSers 安装到 Shopify 商店"></p><p>接下来我们点击下方按钮开始进行数据的迁移。</p><a class="btn-beautify orange block center larger" href="https://www.dsers.com/app/migrat-login"   title="将 Oberlo 的数据迁移到 DSers"><i class="far fa-hand-point-right"></i><span>将 Oberlo 的数据迁移到 DSers</span></a><p>输入邮箱和密码之后点击【<strong>LOG IN</strong>】登录我们刚刚注册的 DSers 账户。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/log-in-dsers-account.png" alt="登录 DSers 账户"></p><p>在偏好设置中，我们可以选择使用 DSers 或 Oberlo 的设置作为参照，一般来说我们选择 Oberlo 即可，然后点击【<strong>APPLY THE CHOSEN PREFERENCES</strong>】按钮进入下一步。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/dsers-or-oberlo-as-reference.png" alt="选择 Oberlo as Reference 然后进行下一步"></p><p>在新页面中，点击【<strong>START MIGRATION</strong>】按钮即可立即进行数据迁移，当然我们也可以从下拉列表中选择一个合适的时间进行迁移。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/dsers-start-migration-now.png" alt="点击 Start Migration 按钮进行数据迁移"></p><p>接着会跳转到 DSers 的后台管理界面，可以看到总共有三步需要完成，其中第一步正在进行，即从 Shopify 更新产品数据，我们只需耐心等待片刻等待更新完成即可。更新完成后，会提示我们 The product data update has been completed，如下图所示。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/migrate-oberlo-data.png" alt="从 Oberlo 迁移数据"></p><p>然后是关联我们的 AliExpress 账户，点击【<strong>LINK ALIEXPRESS</strong>】按钮，跳转到 AliExpress 的登录页面，输入账号密码并点击【<strong>Sign In</strong>】按钮。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/sign-in-aliexpress-account.png" alt="登录 AliExpress 账户"></p><p>接下来在新页面中点击左下角的【<strong>Authorize</strong>】按钮。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/link-dsers-to-aliexpress-authorization.png" alt="点击 Authorize 按钮进行认证"></p><p>回到 DSers 后台后，可以看到第二步关联 AliExpress 账户也已经完成了。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/link-your-aliexpress-account.png" alt="完成 AliExpress 账户的关联"></p><p>接下来是第三步，安装 DSers 的 Chrome 浏览器扩展，我们点击【<strong>DOWNLOAD</strong>】按钮跳转到安装页面，然后点击【<strong>Add to Chrome</strong>】按钮进行安装。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/add-dsers-extension-to-chrome.png" alt="安装 DSers 的 Chrome 浏览器扩展"></p><p>最后回到 DSers 的后台刷新一下，可以看到三个步骤已经全部完成了，这样我们就完成了从 Oberlo 到 DSers 的迁移，使用 DSers 继续进行我们的代发货 (dropshipping) 业务了。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/install-dsers-chrome-extension.png" alt="install-dsers-chrome-extension"></p><p>最后我们打开 Oberlo 的后台确认一下，发现也已经提示我们【<strong>Migration to DSers app has been completed</strong>】，我们可以选择手动卸载 Oberlo，也可以等 2022 年 6 月 15 日的最后期限到了之后由 Shopify 来给我们移除。</p><p><img src="/how-to-migrate-from-oberlo-to-dsers/oberlo-migration-completed.png" alt="数据迁移完成"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Shopify </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Shopify </tag>
+            
+            <tag> Shopify App </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Oberlo 将在 6 月 15 日停止服务，请尽快迁移到 DSers</title>
       <link href="/oberlo-app-sunset/"/>
       <url>/oberlo-app-sunset/</url>
